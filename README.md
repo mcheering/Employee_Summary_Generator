@@ -2,8 +2,7 @@
 
 ## Background
 This is a command line application that takes user input to write html text inside the html file.  The html page is meant to show team members of whatever dev team you have.  Below is a short gif that shows how to use the CLI application: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0jFZd_Ftftw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/0jFZd_Ftftw/0.jpg)](http://www.youtube.com/watch?v=0jFZd_Ftftw "tutorial")
 
 ## How to use
 you can use this application by downloading this repo.  Once downloaded, open terminal and cd to where the app.js file.  It will be located where you downloaded this repo and inside the develo folder. You need to have node installed in oder to run this app.  The command below will run the application: 
